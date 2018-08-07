@@ -1,0 +1,15 @@
+{
+  "name": "04",
+  "set": "psc-0.11.7",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "console",
+    "foldable-traversable",
+    "strings",
+    "arrays",
+    "maybe",
+    "psci-support",
+    "eff",
+    "prelude"
+  ]
+}
